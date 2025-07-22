@@ -1,6 +1,6 @@
 # Metadata
 
-We used questionnaires as sampling instruments. Questionnaires comprised four sections measuring: 1) Audience’s social and demographic characteristics and captive breeding practice context; 2) Audience’s socialization network, 3) self-reported possession, and 4) statements measuring Theory of Planned Behavior components (i.e., attitudes, intentions, perceived social norms, and perceived behavioral control) regarding the intention to adopt the alternative behavior. 
+We used questionnaires as sampling instruments. Participants' identity was anonimazed using numerical codes. Questionnaires comprised four sections measuring: 1) Audience’s social and demographic characteristics and captive breeding practice context; 2) Audience’s socialization network, 3) self-reported possession, and 4) statements measuring Theory of Planned Behavior components (i.e., attitudes, intentions, perceived social norms, and perceived behavioral control) regarding the intention to adopt the alternative behavior. 
 
 In March 2022, we shared the questionnaire virtually (https://es.surveymonkey.com/r/7KK7KX7) and used a snowball approach to reach the sample size, starting with 33 contacts (i.e., breeders and aviculturist associations) based in Venezuela, Brazil, Spain, and Portugal. 
 
