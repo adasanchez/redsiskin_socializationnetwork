@@ -4,7 +4,7 @@
 
 This repository contains the analysis supporting the publication:
 
-*Sanchez-Mercado, A., Moran, L., Cardozo-Urdaneta, A., & Bethelmy, L. (2025). The role of socialization network to understand the adoption of demand-reduction behaviors: The red siskin's breeders community case study. Conservation Science and Practice, e70086. https://doi.org/10.1111/csp2.70086*
+**Sanchez-Mercado, A., Moran, L., Cardozo-Urdaneta, A., & Bethelmy, L. (2025). The role of socialization network to understand the adoption of demand-reduction behaviors: The red siskin's breeders community case study. Conservation Science and Practice, e70086. https://doi.org/10.1111/csp2.70086**
 
 The unsustainable and illegal trade of passerine birds, such as the threatened Red Siskin (*Spinus cucullatus*), is deeply embedded in social, economic, and cultural systems. Understanding these complexities is essential for designing effective behavioural interventions to reduce unsustainable wildlife demand. We used social network analysis, decision-making models, and interview data from 204 breeders involved in red siskins captive breeding across Venezuela (a source and demand country), Brazil, Spain, and Portugal (demand countries) to explore how socialization networks, shape their decisions to adopt sustainable bird sourcing practices.
 
